@@ -1,0 +1,835 @@
+{
+ "src_dir": "/tmp/claude-0/-home-user-MECANISMOS-3-/42bc3274-0b07-5065-937e-a4d510e69bfb/scratchpad/zip_in/Ilustraciones_Sesion_14",
+ "out_dir": "/tmp/claude-0/-home-user-MECANISMOS-3-/42bc3274-0b07-5065-937e-a4d510e69bfb/scratchpad/fig_es",
+ "images": [
+  {
+   "file": "04_VHA_curso_serologico.png",
+   "out": "04_VHA_curso_serologico_ES.png",
+   "labels": [
+    {
+     "rect": [
+      207,
+      57,
+      293,
+      73
+     ],
+     "orig": [
+      "Clinical illness"
+     ],
+     "new": [
+      "Enfermedad clínica"
+     ],
+     "font": "DV",
+     "align": "center"
+    },
+    {
+     "rect": [
+      61,
+      114,
+      117,
+      130
+     ],
+     "orig": [
+      "Infection"
+     ],
+     "new": [
+      "Infección"
+     ],
+     "font": "DV",
+     "align": "center"
+    },
+    {
+     "rect": [
+      16,
+      157,
+      32,
+      223
+     ],
+     "orig": [
+      "Response"
+     ],
+     "new": [
+      "Respuesta"
+     ],
+     "font": "DVB",
+     "align": "center",
+     "rotate": true
+    },
+    {
+     "rect": [
+      171,
+      238,
+      246,
+      254
+     ],
+     "orig": [
+      "HAV in stool"
+     ],
+     "new": [
+      "HAV en heces"
+     ],
+     "font": "DV",
+     "align": "left"
+    },
+    {
+     "rect": [
+      245,
+      345,
+      291,
+      363
+     ],
+     "orig": [
+      "Week"
+     ],
+     "new": [
+      "Semana"
+     ],
+     "font": "DVB",
+     "align": "center"
+    }
+   ]
+  },
+  {
+   "file": "11_VHB_serologia_aguda.png",
+   "out": "11_VHB_serologia_aguda_ES.png",
+   "labels": [
+    {
+     "rect": [
+      284,
+      20,
+      366,
+      57
+     ],
+     "orig": [
+      "Acute",
+      "infection"
+     ],
+     "new": [
+      "Infección",
+      "aguda"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      71,
+      154,
+      148,
+      171
+     ],
+     "orig": [
+      "HBV DNA"
+     ],
+     "new": [
+      "ADN-HBV"
+     ],
+     "font": "DV",
+     "align": "left"
+    },
+    {
+     "rect": [
+      289,
+      230,
+      357,
+      250
+     ],
+     "orig": [
+      "Months"
+     ],
+     "new": [
+      "Meses"
+     ],
+     "font": "DVB",
+     "align": "right"
+    },
+    {
+     "rect": [
+      24,
+      251,
+      152,
+      269
+     ],
+     "orig": [
+      "HBV exposure"
+     ],
+     "new": [
+      "Exposición al HBV"
+     ],
+     "font": "DVB",
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "file": "12_VHB_serologia_cronica.png",
+   "out": "12_VHB_serologia_cronica_ES.png",
+   "labels": [
+    {
+     "rect": [
+      264,
+      6,
+      345,
+      40
+     ],
+     "orig": [
+      "Chronic",
+      "infection"
+     ],
+     "new": [
+      "Infección",
+      "crónica"
+     ],
+     "font": "DVB",
+     "align": "center"
+    },
+    {
+     "rect": [
+      75,
+      127,
+      150,
+      142
+     ],
+     "orig": [
+      "HBV DNA"
+     ],
+     "new": [
+      "ADN-HBV"
+     ],
+     "font": "DV",
+     "align": "left"
+    },
+    {
+     "rect": [
+      284,
+      219,
+      338,
+      236
+     ],
+     "orig": [
+      "Years"
+     ],
+     "new": [
+      "Años"
+     ],
+     "font": "DVB",
+     "align": "right"
+    }
+   ]
+  },
+  {
+   "file": "14_VHC_ciclo_y_dianas_farmacologicas.png",
+   "out": "14_VHC_ciclo_y_dianas_farmacologicas_ES.png",
+   "labels": [
+    {
+     "rect": [
+      100,
+      12,
+      181,
+      29
+     ],
+     "orig": [
+      "Nucleocapsid"
+     ],
+     "new": [
+      "Nucleocápside"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      100,
+      28,
+      160,
+      44
+     ],
+     "orig": [
+      "Envelope"
+     ],
+     "new": [
+      "Envoltura"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      100,
+      48,
+      131,
+      65
+     ],
+     "orig": [
+      "RNA"
+     ],
+     "new": [
+      "ARN"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      188,
+      48,
+      291,
+      77
+     ],
+     "orig": [
+      "Receptor binding",
+      "and endocytosis"
+     ],
+     "new": [
+      "Unión al receptor",
+      "y endocitosis"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      19,
+      108,
+      93,
+      134
+     ],
+     "orig": [
+      "Protease",
+      "inhibitors"
+     ],
+     "new": [
+      "Inhibidores",
+      "de proteasa"
+     ],
+     "font": "CARB",
+     "align": "left",
+     "mode": "dark",
+     "xmax": 92,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      196,
+      145,
+      262,
+      175
+     ],
+     "orig": [
+      "Fusion and",
+      "uncoating"
+     ],
+     "new": [
+      "Fusión y",
+      "denudación"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "xmax": 259,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      181,
+      217,
+      209,
+      233
+     ],
+     "orig": [
+      "RNA"
+     ],
+     "new": [
+      "ARN"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      50,
+      257,
+      274,
+      275
+     ],
+     "orig": [
+      "Translation and polyprotein processing"
+     ],
+     "new": [
+      "Traducción y procesamiento de la poliproteína"
+     ],
+     "font": "CAR",
+     "align": "center",
+     "mode": "dark",
+     "xmin": 22,
+     "xmax": 276,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      287,
+      216,
+      353,
+      243
+     ],
+     "orig": [
+      "NS5A",
+      "inhibitors"
+     ],
+     "new": [
+      "Inhibidores",
+      "de NS5A"
+     ],
+     "font": "CARB",
+     "align": "left",
+     "mode": "dark",
+     "xmax": 362,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      461,
+      47,
+      535,
+      77
+     ],
+     "orig": [
+      "Transport",
+      "and release"
+     ],
+     "new": [
+      "Transporte",
+      "y liberación"
+     ],
+     "font": "CAR",
+     "align": "right",
+     "mode": "dark",
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      462,
+      134,
+      518,
+      163
+     ],
+     "orig": [
+      "Viral",
+      "assembly"
+     ],
+     "new": [
+      "Ensamblaje",
+      "viral"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "mode": "dark",
+     "xmin": 459,
+     "xmax": 516,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      528,
+      159,
+      641,
+      185
+     ],
+     "orig": [
+      "NS5B polymerase",
+      "inhibitors"
+     ],
+     "new": [
+      "Inhibidores de la",
+      "polimerasa NS5B"
+     ],
+     "font": "CARB",
+     "align": "left",
+     "mode": "dark",
+     "xmax": 640,
+     "bg": "coons"
+    },
+    {
+     "rect": [
+      575,
+      237,
+      641,
+      267
+     ],
+     "orig": [
+      "RNA",
+      "replication"
+     ],
+     "new": [
+      "Replicación",
+      "del ARN"
+     ],
+     "font": "CAR",
+     "align": "center",
+     "mode": "dark",
+     "bg": "coons"
+    }
+   ]
+  },
+  {
+   "file": "15_VHD_relacion_VHB_VHD.png",
+   "out": "15_VHD_relacion_VHB_VHD_ES.png",
+   "labels": [
+    {
+     "rect": [
+      289,
+      46,
+      354,
+      67
+     ],
+     "orig": [
+      "capsid"
+     ],
+     "new": [
+      "cápside"
+     ],
+     "font": "CAR",
+     "align": "left"
+    },
+    {
+     "rect": [
+      292,
+      74,
+      378,
+      112
+     ],
+     "orig": [
+      "rcDNA",
+      "genome"
+     ],
+     "new": [
+      "ADNrc",
+      "genómico"
+     ],
+     "font": "CAR",
+     "align": "left",
+     "dy": [
+      -2,
+      0
+     ]
+    },
+    {
+     "rect": [
+      401,
+      73,
+      487,
+      111
+     ],
+     "orig": [
+      "RNA",
+      "genome"
+     ],
+     "new": [
+      "ARN",
+      "genómico"
+     ],
+     "font": "CAR",
+     "align": [
+      "center",
+      "right"
+     ],
+     "dy": [
+      -2,
+      0
+     ]
+    },
+    {
+     "rect": [
+      272,
+      243,
+      396,
+      267
+     ],
+     "orig": [
+      "polymerase"
+     ],
+     "new": [
+      "polimerasa"
+     ],
+     "font": "CAR",
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "file": "16_VHD_genoma_y_estructura.png",
+   "out": "16_VHD_genoma_y_estructura_ES.png",
+   "labels": [
+    {
+     "rect": [
+      384,
+      72,
+      442,
+      88
+     ],
+     "orig": [
+      "HDV RNA"
+     ],
+     "new": [
+      "ARN-HDV"
+     ],
+     "font": "DVB",
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "file": "17_VHB_VHD_coinfeccion_serologia.png",
+   "out": "17_VHB_VHD_coinfeccion_serologia_ES.png",
+   "labels": [
+    {
+     "rect": [
+      6,
+      160,
+      44,
+      178
+     ],
+     "orig": [
+      "Time"
+     ],
+     "new": [
+      "Tiempo"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      6,
+      367,
+      44,
+      384
+     ],
+     "orig": [
+      "Time"
+     ],
+     "new": [
+      "Tiempo"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      72,
+      188,
+      157,
+      204
+     ],
+     "orig": [
+      "Increased ALT"
+     ],
+     "new": [
+      "ALT elevada"
+     ],
+     "font": "DV",
+     "align": "center"
+    },
+    {
+     "rect": [
+      68,
+      243,
+      125,
+      258
+     ],
+     "orig": [
+      "HDV RNA"
+     ],
+     "new": [
+      "ARN-HDV"
+     ],
+     "font": "DV",
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "file": "18_VHD_sobreinfeccion_serologia.png",
+   "out": "18_VHD_sobreinfeccion_serologia_ES.png",
+   "labels": [
+    {
+     "rect": [
+      4,
+      121,
+      50,
+      137
+     ],
+     "orig": [
+      "Time"
+     ],
+     "new": [
+      "Tiempo"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      4,
+      324,
+      50,
+      341
+     ],
+     "orig": [
+      "Time"
+     ],
+     "new": [
+      "Tiempo"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      21,
+      158,
+      73,
+      175
+     ],
+     "orig": [
+      "baseline"
+     ],
+     "new": [
+      "basal"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      77,
+      158,
+      196,
+      175
+     ],
+     "orig": [
+      "Abnormal/increased"
+     ],
+     "new": [
+      "Anormal/elevada"
+     ],
+     "font": "DVB",
+     "align": "center"
+    },
+    {
+     "rect": [
+      222,
+      158,
+      276,
+      175
+     ],
+     "orig": [
+      "baseline"
+     ],
+     "new": [
+      "basal"
+     ],
+     "font": "DVB",
+     "align": "left"
+    },
+    {
+     "rect": [
+      161,
+      194,
+      214,
+      203
+     ],
+     "orig": [
+      "HDV RNA"
+     ],
+     "new": [
+      "ARN-HDV"
+     ],
+     "font": "DVB",
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "file": "20_VHE_curso_serologico.png",
+   "out": "20_VHE_curso_serologico_ES.png",
+   "labels": [
+    {
+     "rect": [
+      258,
+      6,
+      326,
+      22
+     ],
+     "orig": [
+      "Symptoms"
+     ],
+     "new": [
+      "Síntomas"
+     ],
+     "font": "DVB",
+     "align": "center"
+    },
+    {
+     "rect": [
+      0,
+      116,
+      15,
+      152
+     ],
+     "orig": [
+      "Titer"
+     ],
+     "new": [
+      "Título"
+     ],
+     "font": "DVB",
+     "align": "center",
+     "rotate": true
+    },
+    {
+     "rect": [
+      92,
+      152,
+      171,
+      168
+     ],
+     "orig": [
+      "Virus in stool"
+     ],
+     "new": [
+      "Virus en heces"
+     ],
+     "font": "DVB",
+     "align": "right"
+    },
+    {
+     "rect": [
+      204,
+      289,
+      335,
+      304
+     ],
+     "orig": [
+      "Weeks after exposure"
+     ],
+     "new": [
+      "Semanas después de la exposición"
+     ],
+     "font": "DVB",
+     "align": "center"
+    }
+   ]
+  }
+ ]
+}

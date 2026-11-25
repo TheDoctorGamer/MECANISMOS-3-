@@ -1,0 +1,31 @@
+﻿archivo,diapositiva,descripcion,ancho_px,alto_px,uso
+01_Virus_hepatotropicos_primarios_y_secundarios.png,3,Clasificación de virus hepatotropos y causas virales,451,458,ILUSTRACION
+02_VHA_mapa_epidemiologico.png,4,Distribución geográfica ilustrativa presentada en la clase,576,344,ILUSTRACION
+03_VHA_transmision_fecal_oral.png,5,"Ruta fecal-oral, hígado, vía biliar y heces",467,349,ILUSTRACION
+04_VHA_curso_serologico.png,5,"Evolución de IgM, IgG y enzimas hepáticas en hepatitis A",513,374,ILUSTRACION
+05_VHB_particula_Dane_estructura.png,7,"Partícula de Dane, HBsAg y estructuras del VHB",310,409,ILUSTRACION
+06_VHB_higado_sano.png,8,Aspecto ilustrativo de hígado sano,235,160,ILUSTRACION
+07_VHB_higado_cirrotico.png,8,Aspecto ilustrativo de hígado cirrótico,256,175,ILUSTRACION
+08_VHB_coluria.png,9,Ilustración clínica de coluria,216,229,ILUSTRACION
+09_VHB_acolia.png,9,Ilustración clínica de acolia,219,155,ILUSTRACION
+10_VHB_ictericia.png,9,Ilustración clínica de ictericia,407,291,ILUSTRACION
+11_VHB_serologia_aguda.png,11,"Curvas de HBsAg, anti-HBs, HBeAg, anti-HBe y anti-HBc en infección aguda",410,269,ILUSTRACION
+12_VHB_serologia_cronica.png,11,Curvas serológicas de la infección crónica por VHB,392,237,ILUSTRACION
+13_VHC_estructura_viral.png,13,"Esquema de cápside, ARN y glucoproteínas E1/E2",615,421,ILUSTRACION
+14_VHC_ciclo_y_dianas_farmacologicas.png,15,"Inhibidores NS3/4A, NS5A y NS5B y ciclo viral",679,409,ILUSTRACION
+15_VHD_relacion_VHB_VHD.png,16,Relación del VHB y VHD: dependencia de HBsAg,749,338,ILUSTRACION
+16_VHD_genoma_y_estructura.png,16,Genoma circular del VHD y antígeno delta,443,301,ILUSTRACION
+17_VHB_VHD_coinfeccion_serologia.png,17,Marcadores de coinfección aguda VHB/VHD,271,388,ILUSTRACION
+18_VHD_sobreinfeccion_serologia.png,17,Marcadores de sobreinfección VHD en VHB crónico,293,345,ILUSTRACION
+19_VHE_ilustracion_viral.png,19,Ilustración de hepatitis E de la PPT,625,570,ILUSTRACION
+20_VHE_curso_serologico.png,20,Curvas serológicas del VHE con anti-VHE IgM/IgG y ALT,515,304,ILUSTRACION
+21_Barrera_intestinal_inmunidad_mucosa.png,23,Esquema de barrera epitelial y mucosa intestinal,882,354,ILUSTRACION
+22_Alergia_IgE_sensibilizacion_reexposicion.png,24,"Sensibilización, mastocitos, histamina y exposición",640,272,ILUSTRACION
+23_Alergenos_alimentarios_grupos.png,25,Ejemplos de alimentos alergénicos según la clase,918,463,REFERENCIA_RECONSTRUIR
+24_Alergia_comparacion_respuesta_inmune.png,27,Tabla de reacciones inmunológicas como referencia para reconstrucción editable,853,287,REFERENCIA_RECONSTRUIR
+25_Alergia_atopicos_no_atopicos.png,28,"Comparación de individuos atópicos y no atópicos, para reconstrucción",925,452,REFERENCIA_RECONSTRUIR
+26_Alergia_IgE_manifestaciones_1.png,29,"Manifestaciones clínicas mediadas por IgE, incluidas reacciones locales",898,402,REFERENCIA_RECONSTRUIR
+27_Alergia_IgE_inmediata_anafilaxia.png,30,"Manifestaciones inmediatas, anafilaxia y molécula IgE",916,333,REFERENCIA_RECONSTRUIR
+28_Alergia_no_IgE_clasificacion.png,31,"Clasificación de trastornos no mediados por IgE, para reconstrucción",665,398,REFERENCIA_RECONSTRUIR
+29_Alergia_no_IgE_ejemplos.png,31,"Enterocolitis, proctocolitis, enfermedad celíaca según clase",740,416,REFERENCIA_RECONSTRUIR
+30_Alergia_diagnostico_historia.png,33,Elementos de historia clínica y diagnóstico descritos en PPT,930,910,REFERENCIA_RECONSTRUIR
